@@ -1,5 +1,5 @@
 {
-  "name": "4_rendering_dynamic_content",
+  "name": "expense_tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
